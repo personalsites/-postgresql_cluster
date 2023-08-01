@@ -12,7 +12,7 @@
 
 # if dcs_exists: false and dcs_type: "etcd"
 [etcd_cluster]  # recommendation: 3, or 5-7 nodes
-10.31.193.200
+10.31.193.2000
 10.31.193.201
 10.31.193.202
 
